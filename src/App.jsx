@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <div>
-          <BoroughCard borough = "brooklyn" bgColor = "blue"></BoroughCard>
+          <BoroughCard borough = "TestBorough" bgColor = "blue"></BoroughCard>
       </div>
     </>
   )
